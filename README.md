@@ -14,6 +14,7 @@ Meu discord: N0de#0001
 #### Programo:
 <div style="display: inline_block">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/csharp.svg">
+<img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/rust/rust.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/javascript.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/typescript.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/python.svg">
@@ -29,7 +30,6 @@ Meu discord: N0de#0001
 
 ##### Tenho algum conhecimento:
 <div style="display: inline_block">
-<img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/rust/rust.svg">
 <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/react.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/cplusplus.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nasm.svg">
