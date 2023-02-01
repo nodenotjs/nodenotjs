@@ -18,7 +18,7 @@ Meu discord: N0de#0001
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/typescript.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/python.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/html5.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/css3">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/css3.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/mcfunction.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/c.svg">
   |
