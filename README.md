@@ -13,29 +13,29 @@ Meu discord: N0de#0001
 
 #### Programo:
 <div style="display: inline_block">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/csharp.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/javascript.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/typescript.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/python.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/html5.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/css3">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/mcfunction.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/c.svg">
   |
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/arduino.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nodedotjs.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg">
 <div/>
 
 ##### Tenho algum conhecimento:
 <div style="display: inline_block">
-<img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-<img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg">
+<img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/rust/rust.svg">
+<img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/react.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/cplusplus.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nasm.svg">
    |
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img height="40" width="40" align="center" style="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/unity.svg">
+  <img height="40" width="40" align="center" style="" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nextdotjs.svg">
 <div/>
 
  ---
