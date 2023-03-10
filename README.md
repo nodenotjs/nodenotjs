@@ -32,7 +32,6 @@ Meu discord: N0de#0001
 <div style="display: inline_block">
 <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/react.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/cplusplus.svg">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nasm.svg">
    |
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/unity.svg">
   <img height="40" width="40" align="center" style="" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nextdotjs.svg">
