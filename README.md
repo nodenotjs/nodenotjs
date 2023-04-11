@@ -37,11 +37,3 @@ Meu discord: N0de#0001
   <img height="40" width="40" align="center" style="" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nextdotjs.svg">
 <div/>
 
- ---
-  #### Outros fatos sobre mim
-  
-- 🔭 Sou apaixonado por astronomia!
-- 🎵 Sou músico
-- 🏎️ Sou piloto de kart
-
-
