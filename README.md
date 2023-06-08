@@ -6,7 +6,7 @@
 - 📗 Sou estudante de Cybersecurity
 - 💻 Programo desde os 12 anos. Computadores são incríveis!
 
-Meu discord: N0de#0001
+Meu discord: n0de
 
 ---
 
