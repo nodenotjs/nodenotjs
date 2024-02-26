@@ -1,7 +1,3 @@
-<div>
-  <p align="center"><img align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/banner_large2.png"></p>
-</div>
-
 - ⭐ Eu sou um entusiasta em criação e tecnologia
 - 📗 Sou estudante de Cybersecurity
 - 💻 Programo desde os 11 anos. Computadores são incríveis!
