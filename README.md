@@ -4,15 +4,11 @@
 
 - ⭐ Eu sou um entusiasta em criação e tecnologia
 - 📗 Sou estudante de Cybersecurity
-- 💻 Programo desde os 12 anos. Computadores são incríveis!
+- 💻 Programo desde os 11 anos. Computadores são incríveis!
 
-Meu discord: n0de
+Meu discord: nodenotjs
 
----
-
-
-#### Programo:
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/csharp.svg">
 <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/rust/rust.svg">
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/javascript.svg">
@@ -36,5 +32,5 @@ Meu discord: n0de
    |
   <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/unity.svg">
   <img height="40" width="40" align="center" style="" src="https://raw.githubusercontent.com/n0deee/n0deee/main/icons/nextdotjs.svg">
-<div/>
+<div/>-->
 
